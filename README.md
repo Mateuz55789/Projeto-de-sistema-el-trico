@@ -60,6 +60,7 @@ O projeto abrange todas as etapas de planejamento elétrico, sendo essas:
 - Dialux Evo (simulação luminotécnica);  
 - PSP-UFU (simulação de faltas e curtos);  
 - AutoCAD (diagrama unifilar);
+- Excel (cálculos);
 
 ---
 
