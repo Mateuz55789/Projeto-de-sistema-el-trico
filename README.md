@@ -66,10 +66,11 @@ O projeto abrange todas as etapas de planejamento elétrico, sendo essas:
 
 ## 👥 Integrantes do Grupo
 
-- Bruno Henrique de Oliveira  
-- Emerson Falcão Albertini  
-- Isaac Zulin Memari Espelho  
+- Emerson Falcão Albertini 
 - Mateus Gomes Justino
+- Bruno Henrique de Oliveira   
+- Isaac Zulin Memari Espelho  
+
 
 ---
 
