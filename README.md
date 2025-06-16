@@ -85,3 +85,13 @@ Período de entrega: Junho de 2025
 ## 📄 Observação
 
 Este projeto acadêmico é de uso educacional. Os dados, cálculos e modelos aqui apresentados foram desenvolvidos exclusivamente para fins didáticos e não devem ser utilizados em aplicações reais sem validação técnica profissional.
+
+##⚠️ Restrições de Uso
+
+Este projeto acadêmico é de uso educacional e destina-se unicamente para fins didáticos e não devem ser utilizados em aplicações reais sem validação técnica profissional. Qualquer uso comercial, seja direto ou indireto, é estritamente proibido sem autorização expressa do autor.
+Para outras finalidades ou solicitações de uso que não se enquadrem nas condições de uso acadêmico e não comercial, por favor, entre em contato com o autor.
+
+###✉️ Contato
+Emerson Falcão Albertini
+emersonalbertini01@gmail.com
+[https://www.linkedin.com/in/emerson-falcão-albertini-8aa17a334](url)
