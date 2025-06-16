@@ -60,7 +60,7 @@ O projeto abrange todas as etapas de planejamento elétrico, sendo essas:
 - Dialux Evo (simulação luminotécnica);  
 - PSP-UFU (simulação de faltas e curtos);  
 - AutoCAD (diagrama unifilar);
-- Excel (cálculos);
+- Excel (cálculos).
 
 ---
 
@@ -90,6 +90,6 @@ Para outras finalidades ou solicitações de uso que não se enquadrem nas condi
 ---
 
 ### ✉️ Contato
-Emerson Falcão Albertini
-emersonalbertini01@gmail.com
-[https://www.linkedin.com/in/emerson-falcão-albertini-8aa17a334](url)
+- Emerson Falcão Albertini
+- emersonalbertini01@gmail.com
+- [https://www.linkedin.com/in/emerson-falcão-albertini-8aa17a334](url)
