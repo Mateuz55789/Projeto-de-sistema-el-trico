@@ -92,3 +92,13 @@ Este projeto destina-se unicamente para fins didáticos e não deve ser utilizad
 - Emerson Falcão Albertini
 - emersonalbertini01@gmail.com
 - [https://www.linkedin.com/in/emerson-falcão-albertini-8aa17a334](url)
+
+- Mateus Gomes Justino
+- mateusjustino91@gmail.com
+- www.linkedin.com/in/mateus-justino-ax01
+
+- Bruno Henrique de Oliveira
+- bruno.henriq@alunos.fho.edu.br
+
+- Isaac Zulim Memari Espelho
+- espelho@alunos.fho.edu.br
